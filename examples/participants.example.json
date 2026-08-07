@@ -1,0 +1,66 @@
+[
+  {
+    "id": "P1",
+    "seat_label": "1",
+    "display_name": "Participant 1",
+    "visual_description": "left side of table near bottom, red sweater",
+    "role": "participant"
+  },
+  {
+    "id": "P2",
+    "seat_label": "2",
+    "display_name": "Participant 2",
+    "visual_description": "left side of table, black jacket, looking down at phone/table",
+    "role": "participant"
+  },
+  {
+    "id": "P3",
+    "seat_label": "3",
+    "display_name": "Participant 3",
+    "visual_description": "left side of table near top, black jacket",
+    "role": "participant"
+  },
+  {
+    "id": "P4",
+    "seat_label": "4",
+    "display_name": "Participant 4",
+    "visual_description": "right side of table near bottom, black jacket and glasses",
+    "role": "participant"
+  },
+  {
+    "id": "P5",
+    "seat_label": "5",
+    "display_name": "Participant 5",
+    "visual_description": "right side of table middle, near placard 5",
+    "role": "participant"
+  },
+  {
+    "id": "P6",
+    "seat_label": "6",
+    "display_name": "Participant 6",
+    "visual_description": "right side of table upper-middle, glasses, hand near face",
+    "role": "participant"
+  },
+  {
+    "id": "P7",
+    "seat_label": "7",
+    "display_name": "Participant 7",
+    "visual_description": "right side of table near top, dark jacket",
+    "role": "participant"
+  },
+  {
+    "id": "P8",
+    "seat_label": "8",
+    "display_name": "Participant 8",
+    "visual_description": "left/top side, far end of table",
+    "role": "participant"
+  },
+  {
+    "id": "MOD",
+    "seat_label": "moderator",
+    "display_name": "Moderator",
+    "visual_description": "bottom center, back to camera, laptop open",
+    "role": "moderator"
+  }
+]
+

@@ -1,0 +1,2 @@
+# No Python package dependencies are required for the current CLI.
+# ffmpeg must be installed separately for media extraction/frame sampling.
